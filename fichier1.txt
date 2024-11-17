@@ -1,2 +1,5 @@
 ceci est le fichier 1 que je vient de modifier
 encore une fois
+etape 1
+etape 2
+etape 3
